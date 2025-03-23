@@ -1,2 +1,4 @@
 # Laravel-Study-Cases-Project
-This repository contains links to my simple laravel projects based on different types of case studies. It is intended for your reference in learning or using laravel.
+
+## Description
+This repository contains a collection of simple Laravel projects created based on various case studies. The main purpose of this repository is to serve as a reference for learning and using Laravel in various development scenarios.
